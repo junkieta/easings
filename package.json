@@ -1,7 +1,7 @@
 {
   "name": "@junkieta/easings",
   "version": "1.0.0",
-  "description": "easings functions (typescript)",
+  "description": "easings esm functions (typescript)",
   "author": {
     "name": "junkieta",
     "email": "webmaster@junkieta.net"
@@ -17,7 +17,8 @@
   },
   "keywords": [
     "typescript",
-    "easings"
+    "easings",
+    "esm"
   ],
   "license": "MIT",
   "bugs": {
