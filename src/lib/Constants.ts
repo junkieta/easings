@@ -1,0 +1,9 @@
+export const PI2 = Math.PI / 2;
+export const B1 = 1 / 2.75;
+export const B2 = 2 / 2.75;
+export const B3 = 1.5 / 2.75;
+export const B4 = 2.5 / 2.75;
+export const B5 = 2.25 / 2.75;
+export const B6 = 2.625 / 2.75;
+export const ELASTIC_AMPLITUDE = 1;
+export const ELASTIC_PERIOD = 0.4;
