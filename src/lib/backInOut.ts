@@ -1,4 +1,3 @@
-
 export function backInOut(t: number): number {
 	t *= 2;
 	if (t < 1)

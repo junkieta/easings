@@ -1,6 +1,4 @@
 import { B1, B2, B3, B4, B5, B6 } from "./constants";
-
-
 export function bounceIn(t: number): number {
 	t = 1 - t;
 	if (t < B1)

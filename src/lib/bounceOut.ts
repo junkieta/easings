@@ -4,8 +4,6 @@ import { B3 } from "./Constants";
 import { B4 } from "./Constants";
 import { B5 } from "./Constants";
 import { B6 } from "./Constants";
-
-
 export function bounceOut(t: number): number {
 	if (t < B1)
 		return 7.5625 * t * t;
